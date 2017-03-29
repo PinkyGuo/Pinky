@@ -2,3 +2,7 @@
 #作者：Pinky
 #内容：
       开始学习版本管理git啦！！！
+	  git init
+	  git add
+	  git commit
+	  
